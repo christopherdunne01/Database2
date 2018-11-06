@@ -1,0 +1,34 @@
+<film>
+<title>Marriage, The</title>
+<year>2001</year>
+<directors>
+<director>Fergal Kelly</director>
+</directors>
+<genres>
+<genre>Action</genre>
+<genre>Comedy</genre>
+</genres>
+<plot>A man spy and a women spy marry eachother</plot>
+<cast>
+<performer>
+<actor>Fergal Kelly</actor>
+<role>Ryan Thomas</role>
+</performer>
+<performer>
+<actor>Phoebe Buffet</actor>
+<role>Regine Phalange</role>
+</performer>
+<performer>
+<actor>Aaron Thompson</actor>
+<role>Ross Geller</role>
+</performer>
+<performer>
+<actor>James Rolan</actor>
+<role>Philip Boyd</role>
+</performer>
+<performer>
+<actor>Mary Michaels</actor>
+<role>Martina Karmichle</role>
+</performer>
+</cast>
+</film>

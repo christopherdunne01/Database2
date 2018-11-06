@@ -1,0 +1,36 @@
+<film>
+<title>Godfather, The</title>
+<year>1972</year>
+<directors>
+<director>Francis Ford Coppola</director>
+<director>Francis aa Coppola</director>
+</directors>
+<genres>
+<genre>Crime</genre>
+<genre>Drama</genre>
+</genres>
+<plot>Son of a mafia boss takes over when his father is
+critically wounded in a mob hit.</plot>
+<cast>
+<performer>
+<actor>Marlon Brando</actor>
+<role>Don Vito Corleone</role>
+</performer>
+<performer>
+<actor>Al Pacino</actor>
+<role>Michael Corleone</role>
+</performer>
+<performer>
+<actor>Diane Keaton</actor>
+<role>Kay Adams Corleone</role>
+</performer>
+<performer>
+<actor>Robert Duvall</actor>
+<role>Tom Hagen</role>
+</performer>
+<performer>
+<actor>James Caan</actor>
+<role>Sonny Corleone</role>
+</performer>
+</cast>
+</film>

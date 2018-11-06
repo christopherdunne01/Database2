@@ -1,0 +1,34 @@
+<film>
+<title>Weirdos, The</title>
+<year>2015</year>
+<directors>
+<director>James Kenneth</director>
+</directors>
+<genres>
+<genre>Action</genre>
+<genre>Romance</genre>
+</genres>
+<plot>Two weirdos have a love hate relationship. </plot>
+<cast>
+<performer>
+<actor>Kyra Banks</actor>
+<role>Sarah Dale </role>
+</performer>
+<performer>
+<actor>Martin Bloom </actor>
+<role>Chris Ryan</role>
+</performer>
+<performer>
+<actor>Martha Reynolds</actor>
+<role>Jane Tyre</role>
+</performer>
+<performer>
+<actor>Andrew MickMac</actor>
+<role>Noel James</role>
+</performer>
+<performer>
+<actor>Lisa Roune</actor>
+<role>Rachel Reid</role>
+</performer>
+</cast>
+</film>

@@ -1,0 +1,34 @@
+<film>
+<title>Propsal, The</title>
+<year>1920</year>
+<directors>
+<director>Christopher Dunne</director>
+</directors>
+<genres>
+<genre>Comedy</genre>
+<genre>Drama</genre>
+</genres>
+<plot>Man falls in love with women.</plot>
+<cast>
+<performer>
+<actor>Jennifer Lawrence</actor>
+<role>Jenny L</role>
+</performer>
+<performer>
+<actor>Matt Damon</actor>
+<role>Joey Tribani</role>
+</performer>
+<performer>
+<actor>Diane Maguire</actor>
+<role>Ryan Adams Mooney</role>
+</performer>
+<performer>
+<actor>Robert DeJenerio</actor>
+<role>Michael Brown</role>
+</performer>
+<performer>
+<actor>Joe Canniete</actor>
+<role>Johnny Sexton</role>
+</performer>
+</cast>
+</film>
